@@ -42,108 +42,25 @@
       "userId": 2
     },
     {
-      "id": "4",
-      "title": "Write Documentation",
-      "summary": "Create technical documentation for the project.",
-      "status": "deleted"
-    },
-    {
-      "id": "5",
-      "title": "Write Documentation2",
-      "summary": "Create technical documentation for the project.",
-      "status": "done"
-    },
-    {
-      "id": "7721",
-      "title": "test title",
-      "summary": "test summary",
-      "status": "deleted"
-    },
-    {
-      "id": "f0e0",
-      "title": "hgfjhgvj",
-      "summary": "guygu",
-      "status": "deleted"
-    },
-    {
-      "id": "3a2d",
-      "title": "asdasd",
-      "summary": "asdasd",
-      "status": "deleted"
-    },
-    {
-      "id": "323b",
-      "title": "asdasd",
-      "summary": "asdasd",
-      "status": "deleted"
-    },
-    {
-      "id": "d877",
-      "title": "asdasdsadasdasd",
-      "summary": "asdasdasdasd",
-      "status": "deleted"
-    },
-    {
-      "id": "ca1e",
-      "title": "test sum",
-      "summary": "test sum",
-      "status": "deleted"
-    },
-    {
       "id": "7946",
-      "title": "sadasdasd",
-      "summary": "asdasdasd",
+      "title": "Implement Dark Mode",
+      "summary": "Add a dark mode toggle for improved user experience.",
       "status": "active",
       "deadline": "2025-03-31T16:59:46.429Z"
     },
     {
       "id": "6737",
-      "title": "aaaaaaaaaaaaaaaaaa",
-      "summary": "asdasd",
+      "title": "Enhance Search Functionality",
+      "summary": "Improve the search algorithm to provide better results.",
       "status": "done",
       "deadline": "2025-03-31T08:50:15.759Z"
     },
     {
       "id": "62b3",
-      "title": "dsfsdf",
-      "summary": "dsfsdfsdf",
+      "title": "Optimize Page Load Speed",
+      "summary": "Reduce load times by optimizing assets and caching.",
       "status": "active",
       "deadline": "2025-03-31T08:53:58.542Z"
-    },
-    {
-      "id": "4e99",
-      "title": "vcvcxvss",
-      "summary": "cxvxcvx",
-      "status": "active",
-      "deadline": "2025-04-01T09:07:29.764Z"
-    },
-    {
-      "id": "26c5",
-      "title": "Updated Task Title",
-      "summary": "Updated Task Summary",
-      "status": "active",
-      "deadline": "2025-03-31T09:19:36.399Z"
-    },
-    {
-      "id": "af84",
-      "title": "Updated Task Summary",
-      "summary": "Updated Task Summary",
-      "status": "active",
-      "deadline": "2025-03-31T16:42:50.814Z"
-    },
-    {
-      "id": "6d73",
-      "title": "test",
-      "summary": "tests",
-      "status": "deleted",
-      "deadline": "2025-03-11T16:44:27.884Z"
-    },
-    {
-      "id": "2e3b",
-      "title": "test",
-      "summary": "sadasd",
-      "status": "active",
-      "deadline": "2025-04-05T03:03:20.380Z"
     }
   ]
 }
